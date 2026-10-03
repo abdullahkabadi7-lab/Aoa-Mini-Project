@@ -1,0 +1,84 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+sort_analyzer
+sort_analyzer.exe
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Build output directories
+build/
+Build/
+bin/
+Bin/
+obj/
+Obj/
+dist/
+Dist/
+release/
+Release/
+debug/
+Debug/
+
+# IDE / Editor files
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+.idea/
+*.iml
+*.iws
+*.ipr
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-debug/
+cmake-build-release/
+CMakeScripts/
+
+# Make / generated
+Makefile.bak
+*.d
+
+# OS temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Core dumps / crash logs
+*.stackdump
+core
+core.*
