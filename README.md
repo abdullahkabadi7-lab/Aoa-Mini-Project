@@ -80,4 +80,8 @@ The main takeaways:
 
 ## Author
 
-Your Name, your course / college, year
+Abdullah Kabadi
+Ranveer Patil
+Siddhesh Jadhav
+Punit Saini
+
